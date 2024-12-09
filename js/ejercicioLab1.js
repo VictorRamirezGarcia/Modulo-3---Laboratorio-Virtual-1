@@ -302,6 +302,8 @@ function ordenarDoctoresPorExperiencia(doctores) {
     return doctores;
 }
 
+
+////////
 // Ejemplo de ordenamiento
 let doctoresOrdenados = ordenarDoctoresPorExperiencia(doctoresConExperiencia);
 console.log( "Este es el arreglo de doctores con experiencia ordenados con funcion de burbuja: \n");
